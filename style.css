@@ -10,7 +10,7 @@ section{
 .first-section{
     display: flex;
     padding-left: 10%;
-    padding-bottom: ;
+    padding-bottom: 100px; ;
 }
 .half-width{
     width: 50%;
