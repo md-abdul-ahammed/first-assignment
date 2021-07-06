@@ -56,6 +56,42 @@ p{
     background-image: url(images/bg-1.png);
     background-repeat: no-repeat;
 }
-.h1-center{
+.center{
     text-align: center;
+}
+.mid-width {
+    width: 25%;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 30px;
+    border: 6px solid white;
+    box-shadow: 0px 0px 35px grey;
+}
+.imge img{
+    width: 100%;
+}
+.des-text{
+    font-size: 16px;
+    padding-left: 4px;
+}
+.shape-management{
+    margin: 0;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.recipies-cate{
+    padding-left: 8%;
+}
+.social-platform{
+    text-align: center;
+}
+.yout-fol {
+    display: inline-block;
+    padding: 0px 5%;
+}
+.social-issue{
+    text-align: center;
+    margin: 0px 110px;
+    box-shadow: 0px 0px 35px grey;
+    padding: 2%;
 }
